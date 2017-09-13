@@ -2,8 +2,6 @@
 
 Portfolio displaying completed development projects.
 
-[Live Application]()
-
 ### Project Goals
 
 Application was completed as a freeCodeCamp [challenge](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage).
